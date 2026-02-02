@@ -1,0 +1,15 @@
+| **Categoría**                     | **Comando / Frase**                                                               | **Acción de Cortana**                                                                 |
+| --------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Activación (Wake Word)**        | “Oye Cortana” / “Ey Cortana” / “Escucha Cortana”                                  | Despierta a Cortana desde modo reposo                                                 |
+| **Cierre / despedida**            | “Cerrar asistente” / “Apagar asistente” / “Adiós Cortana” / “Hasta luego Cortana” | Cortana dice despedida y se apaga                                                     |
+| **Abrir aplicaciones**            | “Abre calculadora” / “Abrir bloc de notas” / “Abre Steam” / “Abrir VLC”           | Abre la aplicación correspondiente en Windows                                         |
+| **Abrir juegos de Steam**         | “Abre The Forest” / “Abrir CS:GO” / “Abre Dota 2” / “Abrir GTA V”                 | Abre el juego de Steam correspondiente                                                |
+| **Abrir sitios web**              | “Abre Google” / “Abrir YouTube” / “Abre Wikipedia” / “Abrir Netflix”              | Abre la página web en el navegador                                                    |
+| **Búsqueda en Google**            | “Buscar gatos” / “Busca clima hoy”                                                | Abre Google con la búsqueda del término indicado                                      |
+| **Búsqueda de videos en YouTube** | “Videos de gatos” / “Video recetas de cocina”                                     | Abre YouTube con la búsqueda del término indicado                                     |
+| **Reproducir música o videos**    | “Reproduce Piter G” / “Pon Despacito”                                             | Busca y reproduce la música o video en YouTube                                        |
+| **Consultar hora y fecha**        | “Qué hora es” / “Dime la hora” / “Me puedes decir la hora”                        | Cortana dice la fecha y hora actual con formato amigable                              |
+| **Modo reposo / descanso**        | “Modo reposo” / “Descansa” / “Duerme”                                             | Cortana entra en modo reposo y deja de responder hasta nuevo wake word                |
+| **Saludos**                       | “Hola”                                                                            | Cortana responde con saludo aleatorio (“Holaa Nick”, “¡Hey! ¿qué vamos a hacer hoy?”) |
+
+
