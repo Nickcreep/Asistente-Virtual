@@ -69,8 +69,6 @@ Este proyecto está diseñado solo para Windows debido al uso de win32com y wins
 Algunas funciones (como abrir juegos de Steam) requieren que la URI del juego esté correctamente configurada.
 Se recomienda usar un micrófono de buena calidad para mejorar el reconocimiento de voz.
 
-💡 Próximas mejoras
-
-Añadir control de volumen y reproducción de música local.
-Integrar respuestas más inteligentes con IA.
-Interfaz gráfica opcional con LEDs y estado de Cortana
+Este proyecto fue echo porque me daba paja dar click mientras jugaba XD
+Asi que decidi hacerme un asistente para que me ayude en eso
+Tarde como 7 meses en tratar de entender lo que hacia y que hacia cada código y a pesar de que me doliera la cabeza todo el tiempo lo intentaba una y otra vez
